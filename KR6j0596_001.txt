@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:57.977703
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:35
 #+TITLE: 佛說祕密八名陀羅尼經
 #+PROPERTY: CBETA_ID T21n1366
 #+PROPERTY: ID KR6j0596
